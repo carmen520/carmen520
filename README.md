@@ -3,4 +3,5 @@
 - ⚡ Python
 - 🏃 mathematics /statistics
 - ♟ history /sociology
+- 🎵 love rock music
 
